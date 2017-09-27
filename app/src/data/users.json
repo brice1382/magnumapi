@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "user_name": "dinesh123",
+    "full_name": "Dinesh",
+    "user_team": "Magnum PI",
+    "images": [
+      "../../assets/_JiraAvatar.png",
+      "../../assets/images/_SpireLogo.png"
+    ]
+  },
+  {
+    "id": 2,
+    "user_name": "jared123",
+    "full_name": "Jared",
+    "user_team": "Magnum PI",
+    "images": [
+      "../../assets/_JiraAvatar.png",
+      "../../assets/images/_SpireLogo.png"
+    ]
+  },
+  {
+    "id": 3,
+    "user_name": "matt123",
+    "full_name": "Matt",
+    "user_team": "Magnum PI",
+    "images": [
+      "../../assets/_JiraAvatar.png",
+      "../../assets/images/_SpireLogo.png"
+    ]
+  },
+  {
+    "id": 4,
+    "user_name": "laxmi123",
+    "full_name": "Laxmi",
+    "user_team": "Magnum PI",
+    "images": [
+      "../../assets/_JiraAvatar.png",
+      "../../assets/images/_SpireLogo.png"
+    ]
+  }
+]

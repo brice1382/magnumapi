@@ -1,0 +1,88 @@
+@import "variables";
+@import "mixins";
+
+// Mixins
+.s {
+  @include shadow;
+}
+
+.spNav {
+  @include bgRight;
+}
+
+.azure {
+  color: azure !important;
+  a {
+    color: azure !important;
+  }
+}
+
+.btnHolder {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.kbContainer {
+  @include shadow;
+  height: 150px;
+  border-radius: 6px;
+  background-color: #fcf8e3;
+}
+
+.close {
+  display: none !important;
+}
+
+dl {
+  display: block;
+  margin: 1em 0 1em 0;
+}
+dt {
+  font-weight: bold;
+}
+
+.snipCSClass {
+  color: $CSClass;
+  font-weight: bold;
+}
+
+.snipCSString {
+  color: $CSString;
+}
+
+.snipCSNameS {
+  color: $CSNameS;
+  font-weight: bold;
+}
+
+.snipHelp {
+  color: $helpGrey;
+}
+
+.snipCSComment {
+  color: $CSComment3;
+}
+
+.snipCSDAO {
+  color: $CSDAO;
+}
+
+.snipJSNGStr {
+  font-weight: bold;
+  color: $JSGree;
+}
+
+.snipJSNGFunc {
+  font-weight: bold;
+  color: $JSOrn;
+}
+
+.snipJSNGMdl {
+  font-weight: bold;
+  color: $JSPurp;
+}
+
+.snipJSNGFnName {
+  font-weight: bold;
+  color: $JSYell;
+}

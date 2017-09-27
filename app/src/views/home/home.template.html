@@ -1,0 +1,72 @@
+<h1 style="text-align: center">HOME WORKS TOO!!!</h1>
+
+<div class="container">
+    <a href class="btn btn-primary btn-md" ng-click="upload()">
+        Upload
+        <i class="fa fa-download"></i>
+    </a>
+    <br>
+    <br>
+    <textarea class="searches" id="searches" title="Searches" cols="100" rows="25">
+        RESULTS:{{events}}
+    </textarea>
+    <br>
+    <button class="searches" ng-click="hc.download()" style="vertical-align:top;">Copy Textarea</button>
+</div>
+<div class="container">
+    <h1 style="text-align: center">Testing</h1>
+    <ul>
+        <li ng-repeat="test in tests">
+            TIME: <span ng-repeat="time in test.query.id">{{time.timestamp_usec}} </span><br>
+            Search Term: <span style="text-transform: capitalize">{{test.query.query_text}}</span>
+        </li>
+    </ul>
+</div>
+<div style="height: 200px"></div>
+
+<div class="container">
+    <table border="5" width="50%" cellpadding="4" cellspacing="3">
+        <tr>
+            <th colspan="5">
+                <h3 style="text-align: center">{{hc.title}}</h3>
+            </th>
+        </tr>
+        <tr align="center">
+            <th style="text-align: center">Username</th>
+            <th style="text-align: center">Full Name</th>
+            <th style="text-align: center">Team</th>
+            <th style="text-align: center">Images</th>
+        </tr>
+        <tr align="center" ng-repeat="user in users">
+            <td>{{user.user_name}}</td>
+            <td>{{user.full_name}}</td>
+            <td><a href data-toggle="modal" data-target="#myModal">{{user.user_team}}</a></td>
+            <td ng-repeat="img in user.images">{{img}}</td>
+            <td>{{user.images}}</td>
+        </tr>
+    </table>
+</div>
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <h4 class="modal-title" id="myModalLabel">Images</h4>
+            </div>
+            <div class="modal-body">
+                <div ng-repeat="imgs in images">
+                    {{imgs.images}}
+                    <img src="../../../src/assets/images/_SpireLogo.png" />
+                    <img src="../../../src/assets/_JiraAvatar.png" alt="Image">
+                </div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="height: 200px"></div>

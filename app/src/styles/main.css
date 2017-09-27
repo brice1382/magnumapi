@@ -1,0 +1,76 @@
+.s {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=7, Direction=129, Color=#242424)";
+  -moz-box-shadow: 4px 5px 7px 3px #242424;
+  -webkit-box-shadow: 4px 5px 7px 3px #242424;
+  box-shadow: 4px 5px 7px 3px #242424;
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=7, Direction=135, Color=#242424); }
+
+.spNav {
+  background-image: linear-gradient(to right, #000428, #004e92) !important; }
+
+.azure {
+  color: azure !important; }
+  .azure a {
+    color: azure !important; }
+
+.btnHolder {
+  text-align: center;
+  margin-top: 60px; }
+
+.kbContainer {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=7, Direction=129, Color=#242424)";
+  -moz-box-shadow: 4px 5px 7px 3px #242424;
+  -webkit-box-shadow: 4px 5px 7px 3px #242424;
+  box-shadow: 4px 5px 7px 3px #242424;
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=7, Direction=135, Color=#242424);
+  height: 150px;
+  border-radius: 6px;
+  background-color: #fcf8e3; }
+
+.close {
+  display: none !important; }
+
+dl {
+  display: block;
+  margin: 1em 0 1em 0; }
+
+dt {
+  font-weight: bold; }
+
+.snipCSClass {
+  color: #1e3477;
+  font-weight: bold; }
+
+.snipCSString {
+  color: #c07a55; }
+
+.snipCSNameS {
+  color: #3dbbb0;
+  font-weight: bold; }
+
+.snipHelp {
+  color: #6a737d; }
+
+.snipCSComment {
+  color: #41a439; }
+
+.snipCSDAO {
+  color: #b8d7a3; }
+
+.snipJSNGStr {
+  font-weight: bold;
+  color: #6a8759; }
+
+.snipJSNGFunc {
+  font-weight: bold;
+  color: #cc7832; }
+
+.snipJSNGMdl {
+  font-weight: bold;
+  color: #8a76aa; }
+
+.snipJSNGFnName {
+  font-weight: bold;
+  color: #ffc66d; }
+
+/*# sourceMappingURL=main.css.map */

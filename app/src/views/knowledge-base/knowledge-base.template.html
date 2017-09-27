@@ -1,0 +1,85 @@
+<h1 style="text-align: center">Brain Trust Knowledge Base</h1>
+
+<div class="container kbContainer">
+    <div class="row">
+        <div class="col-md-8">
+            <p style="line-height: 150px; font-size: 20px;">
+                Help out the community and add your favorite reference to the knowledge base.
+            </p>
+        </div>
+        <div class="col-md-4">
+            <div class="btnHolder">
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#addReference">
+                    Add A Reference
+                </button>
+                <button type="button" class="btn btn-primary" ng-click="kc.getSome()">
+                    Get References
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <h1 style="text-align: center">Testing</h1>
+    <hr>
+    <dl ng-repeat="x in kc.res">
+        <dt>Title</dt>
+        <dd>{{x.Title}}</dd>
+        <dt>Description</dt>
+        <dd>{{x.Description}}</dd>
+        <dt>Category</dt>
+        <dd>{{x.Category}}</dd>
+        <dt>Link</dt>
+        <dd>
+            <a href="{{x.Link}}" target="_blank">{{x.Link}}</a>
+        </dd>
+    </dl>
+</div>
+<!-- Modal -->
+<div class="modal fade" id="addReference" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <i class="fa fa-close"></i>
+                </button>
+                <h4 class="modal-title" id="myModalLabel">Add A Reference</h4>
+            </div>
+            <div class="modal-body">
+                <form role="form">
+                    <div class="form-group">
+                        <label class="control-label">Reference Title</label>
+                        <input class="form-control" ng-model="kc.title" type="text" title="Reference Title" autofocus>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">Description</label>
+                        <input class="form-control" ng-model="kc.description" type="text" title="Description">
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">Category</label>
+                        <select class="form-control" name="categorySelect"
+                                id="categorySelect" ng-selected="1"
+                                ng-options="option.value for option in kc.categories track by option.value"
+                                ng-model="kc.option" title="Category">
+                            <option value="">Choose a category...</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">Reference Link</label>
+                        <input class="form-control" ng-model="kc.refLink" type="text" title="Reference Link">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" id="dismiss" class="btn btn-default" data-dismiss="modal">
+                    Close&nbsp;
+                    <i class="fa fa-close"></i>
+                </button>
+                <button type="button" ng-click="kc.addReference()" class="btn btn-primary">
+                    Save&nbsp;
+                    <i class="fa fa-save"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+</div>

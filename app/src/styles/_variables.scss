@@ -1,0 +1,32 @@
+// COLORS
+  // COLORS:BackgroundBlue
+$darkB: #000428;
+$lighterB: #004e92;
+  // COLORS:CodeFiles
+    // C-Sharp Colors
+$helpGrey: #6a737d;
+$CSNameS: #3dbbb0;
+$CSClass: #1e3477;
+$CSBlue2: #4d9cd6;
+$CSBlue3: #1e2f73;
+$CSString: #c07a55;
+$CSComment2: #4ba449;
+$CSComment3: #41a439;
+$CSDAO: #b8d7a3;
+    // JavaScript Colors
+$JSOrn: #cc7832;
+$JSPurp: #8a76aa;
+$JSYell: #ffc66d;
+$JSGree: #6a8759;
+    // COLORS:FontColors
+$azr: azure;
+
+// FONTS AND SIZES
+$fontBase: 16px !default;
+
+$SPMQ: (
+  mobile: 320px,
+  tablet: 740px,
+  desktop: 980px,
+  wide: 1300px
+) !default;

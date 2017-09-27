@@ -1,0 +1,41 @@
+====================================================================================
+                            Sort Json Files
+====================================================================================
+
+<div class="container">
+    <a href class="btn btn-primary btn-md" ng-click="upload()">
+        Upload
+        <i class="fa fa-download"></i>
+    </a>
+    <br>
+    <br>
+    <textarea class="searches" id="searches" title="Searches" cols="100" rows="25">
+        RESULTS:{{events}}
+    </textarea>
+    <br>
+    <button class="searches" ng-click="hc.download()" style="vertical-align:top;">Copy Textarea</button>
+</div>
+
+$scope.upload = function () {
+            $http.get('./assets/masterSearch.json').then(
+                function (response) {
+                    var stuff = response.data;
+                    var VAR2 = JSON.stringify(stuff.event);
+                    for (var i = 0; i <= VAR2.length; i++) {
+
+                        var VAR1 = stuff.event[i].query;
+                        var test = VAR1.query_text;
+                        var varry = VAR1.id[0].timestamp_usec;
+                        var newValue = varry.toString();
+                        var str = newValue.slice(0, -3);
+                        var final = parseInt(str);
+
+                        var date = new Date(final).toLocaleString('en-US', opts);
+                        console.log('**Query**: \r\n' + test + '\r\n\r\n');
+                        console.log('Timestamp: \r\n' + date + '\r\n\r\n');
+                        document.getElementById('searches').appendChild(document
+                            .createTextNode('\r\n' + '\tSEARCH DATE: ' + date + '\n' +
+                                '\tSEARCH TEXT: ' + '"' + test + '"' + '\n\n'));
+                    }
+                })
+        };

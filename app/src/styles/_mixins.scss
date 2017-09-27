@@ -1,0 +1,30 @@
+@import "variables";
+
+@mixin shadow {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=7, Direction=129, Color=#242424)";
+  -moz-box-shadow: 4px 5px 7px 3px #242424;
+  -webkit-box-shadow: 4px 5px 7px 3px #242424;
+  box-shadow: 4px 5px 7px 3px #242424;
+  filter: progid:DXImageTransform.Microsoft.Shadow(Strength=7, Direction=135, Color=#242424);
+}
+
+@mixin noMargin {
+  margin: 0 !important;
+}
+
+@mixin customBG {
+  background-image: linear-gradient(to right, $darkB, $lighterB);
+}
+
+@mixin hold {
+  text-align: center;
+}
+
+@mixin bgRight {
+  background-image: linear-gradient(to right, $darkB, $lighterB) !important;
+}
+
+@mixin bgLeft {
+  background-image: linear-gradient(to left, $darkB, $lighterB);
+}
+

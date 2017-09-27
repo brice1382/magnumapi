@@ -1,0 +1,2860 @@
+{
+    "event": [{
+        "query": {
+            "id": [{
+                "timestamp_usec": "1505226741583965"
+            }],
+            "query_text": "family fare pharmacy"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1505226710745239"
+            }, {
+                "timestamp_usec": "1505226717529841"
+            }],
+            "query_text": "family fare"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1505115731297776"
+            }],
+            "query_text": "my verizon"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1505059041265108"
+            }],
+            "query_text": "screaming needle"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1505058521767128"
+            }, {
+                "timestamp_usec": "1505058524671933"
+            }],
+            "query_text": "anarchy ink"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1504888751708638"
+            }, {
+                "timestamp_usec": "1504888755084008"
+            }],
+            "query_text": "artvan clearance center"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1504841195560299"
+            }],
+            "query_text": "42.971611,-85.722748"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1504816042891584"
+            }, {
+                "timestamp_usec": "1504816047111955"
+            }],
+            "query_text": "great lakes behavioral health"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1504678311256194"
+            }],
+            "query_text": "netspend"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1504472716713838"
+            }],
+            "query_text": "free app friday"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1503687385084457"
+            }, {
+                "timestamp_usec": "1503687388284152"
+            }],
+            "query_text": "gymnastics near me"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1503340165650774"
+            }],
+            "query_text": "when will the eclipse be viewable in grand rapids, mi"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1503340134864024"
+            }],
+            "query_text": "when"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1503340034007277"
+            }, {
+                "timestamp_usec": "1503340037063533"
+            }],
+            "query_text": "when will the solar eclipse happen"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1503339879492937"
+            }],
+            "query_text": "eclipse solar 2017"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1503322409607455"
+            }, {
+                "timestamp_usec": "1503322415265531"
+            }],
+            "query_text": "art van"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1503187201933632"
+            }],
+            "query_text": "jnj online"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502926676243591"
+            }],
+            "query_text": "dr. lemke"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502895445467825"
+            }, {
+                "timestamp_usec": "1502895449064154"
+            }],
+            "query_text": "dr. lemke"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502725100773858"
+            }],
+            "query_text": "Westside Dental GR Grand Rapids, MI"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502725028794569"
+            }, {
+                "timestamp_usec": "1502725031990835"
+            }],
+            "query_text": "westside dental"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502637881373259"
+            }],
+            "query_text": "diffusion"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502553197639119"
+            }],
+            "query_text": "city2shore"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502549285329880"
+            }],
+            "query_text": "bc building renovation"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502549234895270"
+            }, {
+                "timestamp_usec": "1502549239374183"
+            }],
+            "query_text": "bc building and renovation"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502517806519884"
+            }, {
+                "timestamp_usec": "1502518192836938"
+            }, {
+                "timestamp_usec": "1502518277274361"
+            }, {
+                "timestamp_usec": "1502518321703941"
+            }, {
+                "timestamp_usec": "1502518338217421"
+            }],
+            "query_text": "printable peanut allergy signs"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502502050468383"
+            }],
+            "query_text": "grand rapids waste"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502476927468138"
+            }],
+            "query_text": "cort"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502475043135107"
+            }],
+            "query_text": "great clips"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502474931576655"
+            }, {
+                "timestamp_usec": "1502474934600692"
+            }],
+            "query_text": "snip its"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502418119549794"
+            }, {
+                "timestamp_usec": "1502418123248654"
+            }],
+            "query_text": "jnj online"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502325779854633"
+            }],
+            "query_text": "4151 holyoke drive se grand rapids mi 49508"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502318540031971"
+            }, {
+                "timestamp_usec": "1502318544423490"
+            }],
+            "query_text": "black marble fireplace surround flat modern"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502318233297287"
+            }, {
+                "timestamp_usec": "1502318236383446"
+            }, {
+                "timestamp_usec": "1502318239748995"
+            }, {
+                "timestamp_usec": "1502318369338972"
+            }],
+            "query_text": "black marble fireplace surround flat"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502318222630640"
+            }],
+            "query_text": "black marble fireplace surround"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502317907446239"
+            }, {
+                "timestamp_usec": "1502317911750852"
+            }, {
+                "timestamp_usec": "1502318155857468"
+            }],
+            "query_text": "fireplace mid century modern"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502317789125534"
+            }, {
+                "timestamp_usec": "1502317792221168"
+            }, {
+                "timestamp_usec": "1502317794485648"
+            }, {
+                "timestamp_usec": "1502317895298661"
+            }],
+            "query_text": "black marble fireplace mid century modern"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502180407902121"
+            }],
+            "query_text": "borderline personality disorder dsm 5 code"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502180163949094"
+            }],
+            "query_text": "borderline personality disorder dsm 5"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502074500983605"
+            }],
+            "query_text": "borderline personality disorder"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502063899678672"
+            }],
+            "query_text": "616 lofts"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502034584472132"
+            }, {
+                "timestamp_usec": "1502034589458567"
+            }],
+            "query_text": "menards"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1502030794317999"
+            }, {
+                "timestamp_usec": "1502030799086439"
+            }],
+            "query_text": "artvan clearance"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1501944165566797"
+            }, {
+                "timestamp_usec": "1501944169254448"
+            }],
+            "query_text": "shagreen"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1501816672592608"
+            }],
+            "query_text": "smooth move binder"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1501751670334609"
+            }, {
+                "timestamp_usec": "1501751672861561"
+            }, {
+                "timestamp_usec": "1501751676998859"
+            }],
+            "query_text": "smooth move binder"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1501730275560713"
+            }],
+            "query_text": "moths in my car"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1501714542312039"
+            }, {
+                "timestamp_usec": "1501714546106113"
+            }],
+            "query_text": "humane society of west michigan"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1501505127515986"
+            }],
+            "query_text": "making lemonade blog"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1501505115881182"
+            }],
+            "query_text": "making lemonade"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1501503588271955"
+            }],
+            "query_text": "find my phone"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1501503485056833"
+            }],
+            "query_text": "find my iphone"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1501367670900792"
+            }],
+            "query_text": "how to diagnose leukemia"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1501174349491399"
+            }, {
+                "timestamp_usec": "1501174353533192"
+            }],
+            "query_text": "odom grand rapids mi"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1501174138813730"
+            }],
+            "query_text": "add shower to bathtub"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1501174054434152"
+            }],
+            "query_text": "how to make a tub into a shower"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1501173873888214"
+            }],
+            "query_text": "how to add shower to tub"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1501173738427225"
+            }],
+            "query_text": "this old house"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1501109206716801"
+            }],
+            "query_text": "how to diagnose leukemia"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1501108974364590"
+            }],
+            "query_text": "unexplained bruising on legs"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1501098787269047"
+            }],
+            "query_text": "Epic.  http:/business.gasbuddy.com/blog-signs-that-make-you-go-hmmmm/"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1500982070220044"
+            }],
+            "query_text": "449 Century Ave SW #1, Grand Rapids, MI 49503"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1500982051819253"
+            }],
+            "query_text": "42.9216811,-85.8626922"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1500981992242080"
+            }],
+            "query_text": "1172-1176 East Paris Ave SE, Grand Rapids, MI 49546"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1500959878976617"
+            }],
+            "query_text": "amazon interview questions"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1500959829521342"
+            }],
+            "query_text": "amazon"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1500948440784476"
+            }],
+            "query_text": "alpine gymnastics"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1500948157660131"
+            }],
+            "query_text": "gr parks and rec"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1500948142486431"
+            }, {
+                "timestamp_usec": "1500948146382898"
+            }],
+            "query_text": "parks and rec"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1500947585421583"
+            }],
+            "query_text": "www.rent-2-own.house scam"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1500945279080997"
+            }],
+            "query_text": "mold and fatigue"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1500945127348117"
+            }],
+            "query_text": "mold side effects"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1500683407167432"
+            }],
+            "query_text": "The Great Escape Room Grand Rapids, MI"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1500683320734668"
+            }, {
+                "timestamp_usec": "1500683324001634"
+            }],
+            "query_text": "the escape room"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1500421468929134"
+            }],
+            "query_text": "locked 460"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1500421297704537"
+            }, {
+                "timestamp_usec": "1500421301451676"
+            }],
+            "query_text": "escape room"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1500383517216205"
+            }],
+            "query_text": "how to delete apps on iphone 6s"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1500325970974751"
+            }, {
+                "timestamp_usec": "1500325973687034"
+            }],
+            "query_text": "family fare pharmacy"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1500217986698570"
+            }, {
+                "timestamp_usec": "1500217990916269"
+            }],
+            "query_text": "ruby nails"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1499990196537397"
+            }],
+            "query_text": "substitute for oil in cake"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1499910208647621"
+            }],
+            "query_text": "walm"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1499746040497910"
+            }],
+            "query_text": "42.9723944,-85.7221952 -> 2500 Division Ave S, Grand Rapids, MI 49507"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1499745768778852"
+            }],
+            "query_text": "2200 BLK SKYLINE DR NW"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1499745752408633"
+            }],
+            "query_text": "42.971947,-85.722572"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1499745599246741"
+            }],
+            "query_text": "henry morley"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1499745468653374"
+            }],
+            "query_text": "42.972248,-85.722252"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1499745352750029"
+            }],
+            "query_text": "prolixin dec 17.5"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1499697550876410"
+            }],
+            "query_text": "nerd t shirts"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1499655521182191"
+            }, {
+                "timestamp_usec": "1499656393203038"
+            }],
+            "query_text": "42.972248,-85.722252"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1499655494960687"
+            }],
+            "query_text": "916 Fairfield ave grand rapids mi"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1499655399954847"
+            }],
+            "query_text": "42.972248,-85.722252"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1499622606092571"
+            }, {
+                "timestamp_usec": "1499622612053676"
+            }],
+            "query_text": "china chef menu"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1499622048212180"
+            }, {
+                "timestamp_usec": "1499622059127977"
+            }],
+            "query_text": "china chef"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1499481955979625"
+            }],
+            "query_text": "consumers energy outage map"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1499275408589678"
+            }],
+            "query_text": "42.9733732,  -85.6408301"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1499275401719639"
+            }],
+            "query_text": "42.9733732,  -85.6408301,"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1499069322707119"
+            }],
+            "query_text": "mylanta"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1498919263758981"
+            }],
+            "query_text": "yahoo mail"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1498689617485696"
+            }, {
+                "timestamp_usec": "1498689621825801"
+            }],
+            "query_text": "traffic"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1498506189830582"
+            }],
+            "query_text": "nerd t shirts"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1498506157234739"
+            }],
+            "query_text": "geek t shirts"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1498435060310797"
+            }],
+            "query_text": "horse porn"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1498382849633625"
+            }],
+            "query_text": "touched by an angel"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1498382659015968"
+            }],
+            "query_text": "dr quinn medicine woman"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1498382033295780"
+            }],
+            "query_text": "fable like games"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1498296578872284"
+            }],
+            "query_text": "amox-clav"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1498214215176926"
+            }],
+            "query_text": "weather 49546"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1498209205263295"
+            }, {
+                "timestamp_usec": "1498209288009612"
+            }],
+            "query_text": "cyclical vomiting syndrome"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1498208886122468"
+            }],
+            "query_text": "bitches be bitches meme"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497951851119926"
+            }],
+            "query_text": "weather 49546"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497812479168646"
+            }],
+            "query_text": "analysis paralysis"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497812165175874"
+            }],
+            "query_text": "prolixin dec 17.5"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497812129609193"
+            }],
+            "query_text": "prolixin dec dosage"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497807067199486"
+            }],
+            "query_text": "news"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497802394400940"
+            }],
+            "query_text": "zip code east  jolly rd, lansing mi"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497802363453769"
+            }],
+            "query_text": "howrse"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497799422472175"
+            }, {
+                "timestamp_usec": "1497799463824483"
+            }],
+            "query_text": "detroit tigers quiz"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497799299848916"
+            }, {
+                "timestamp_usec": "1497799390431084"
+            }],
+            "query_text": "printable detroit tiger trivia"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497799224049137"
+            }],
+            "query_text": "detroit tigers fun facts"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497797433692302"
+            }],
+            "query_text": "detroit tigers trivia questions and answers"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497797348114515"
+            }, {
+                "timestamp_usec": "1497797392383276"
+            }, {
+                "timestamp_usec": "1497797409748720"
+            }, {
+                "timestamp_usec": "1497797425509598"
+            }],
+            "query_text": "detroit tigers trivia 2016"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497797269791686"
+            }],
+            "query_text": "tiger baseball trivia questions"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497789824185707"
+            }],
+            "query_text": "fathers day 2017"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497788520871490"
+            }],
+            "query_text": "grant thornton"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497788503840796"
+            }],
+            "query_text": "top 10 accounting firms in the world"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497788477580293"
+            }],
+            "query_text": "largest accounting firms"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497785179182989"
+            }],
+            "query_text": "benazepril"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497777809419532"
+            }, {
+                "timestamp_usec": "1497777819579613"
+            }, {
+                "timestamp_usec": "1497777839782455"
+            }],
+            "query_text": "freestanding butcher block kitchen island"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497777290671780"
+            }],
+            "query_text": "weather grand rapids mi"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497777285114694"
+            }],
+            "query_text": "weather three rivers mi"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497765991557648"
+            }],
+            "query_text": "916 Fairfield ave grand rapids mi"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497740097854670"
+            }],
+            "query_text": "inspirational coloring pages"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497719956009466"
+            }],
+            "query_text": "set point studies"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497719755299655"
+            }],
+            "query_text": "set point eating disorder"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497719506580378"
+            }, {
+                "timestamp_usec": "1497719711646829"
+            }],
+            "query_text": "set point theory"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497718175304495"
+            }, {
+                "timestamp_usec": "1497718178349590"
+            }],
+            "query_text": "meijer pharmacy"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497710457514426"
+            }],
+            "query_text": "henry morley"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497705941663299"
+            }],
+            "query_text": "weather three rivers mi"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497705728975477"
+            }],
+            "query_text": "weather grand rapids mi"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497703631233377"
+            }],
+            "query_text": "1984 detroit tigers trivia"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497703624363310"
+            }],
+            "query_text": "detroit tigers trivia questions and answers"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497703544742012"
+            }, {
+                "timestamp_usec": "1497703567658825"
+            }, {
+                "timestamp_usec": "1497703609349381"
+            }],
+            "query_text": "printable detroit tiger trivia"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497703387090164"
+            }, {
+                "timestamp_usec": "1497703394895411"
+            }, {
+                "timestamp_usec": "1497703403826793"
+            }],
+            "query_text": "tiger baseball trivia questions"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497700910800564"
+            }],
+            "query_text": "michigan pride parade 2017"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497700825776304"
+            }],
+            "query_text": "gay pride parade lansing michigan"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497700772008034"
+            }],
+            "query_text": "tigers schedule 2017"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497381824929378"
+            }],
+            "query_text": "jnj online muskegon"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497375214006633"
+            }, {
+                "timestamp_usec": "1497375219285308"
+            }],
+            "query_text": "forest view"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497312555200868"
+            }],
+            "query_text": "2200 BLK SKYLINE DR NW"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497282890698940"
+            }],
+            "query_text": "jellystone"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497212501427913"
+            }],
+            "query_text": "clean mold off shoes"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497206826990418"
+            }],
+            "query_text": "432 Newberg Ave NW -> 2500 Division Ave S, Grand Rapids, MI 49507"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497024921991070"
+            }],
+            "query_text": "42.9442333333333,-85.559005"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497024722921373"
+            }],
+            "query_text": "42.987139,-85.60058"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497024685375881"
+            }],
+            "query_text": "42.976892,-85.616886"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497021957399889"
+            }],
+            "query_text": "access kent inmate lookup"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1497011562417772"
+            }],
+            "query_text": "access kent inmate lookup"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1496964448813378"
+            }, {
+                "timestamp_usec": "1496964452654890"
+            }, {
+                "timestamp_usec": "1496964453743165"
+            }],
+            "query_text": "fancy nails"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1496929115995900"
+            }, {
+                "timestamp_usec": "1496929122722795"
+            }],
+            "query_text": "ruby nails"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1496752876646487"
+            }],
+            "query_text": "kentwood courthouse"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1496664824181109"
+            }, {
+                "timestamp_usec": "1496664845371801"
+            }],
+            "query_text": "preschool teachers gifts"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1496664803068745"
+            }, {
+                "timestamp_usec": "1496664806509351"
+            }],
+            "query_text": "preschool"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1496597823085719"
+            }],
+            "query_text": "matthew 18"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1496584984498610"
+            }],
+            "query_text": "New Life Baptist Church Grand Rapids, MI"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1496584941473280"
+            }, {
+                "timestamp_usec": "1496584945310811"
+            }],
+            "query_text": "new life baptist church grand rapids mi"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1496427514591907"
+            }],
+            "query_text": "432 Newberg Ave NW -> 2500 Division Ave S, Grand Rapids, MI 49507"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1496360738871168"
+            }],
+            "query_text": "bike sizes for kids"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1496328840143183"
+            }, {
+                "timestamp_usec": "1496328844372818"
+            }],
+            "query_text": "comcast"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1496259246846467"
+            }],
+            "query_text": "how to clean white shoes"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1496147710614238"
+            }, {
+                "timestamp_usec": "1496147713283250"
+            }],
+            "query_text": "woodtv8 traffic"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1495989688287339"
+            }],
+            "query_text": "howrse"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1495980669623193"
+            }, {
+                "timestamp_usec": "1495980673351029"
+            }],
+            "query_text": "family fare pharmacy"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1495924567673629"
+            }],
+            "query_text": "How do you delete apps on iPhone 7 Plus?"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1495924544524983"
+            }],
+            "query_text": "delete apps from iphone 7"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1495502100961037"
+            }],
+            "query_text": "oxycodone and acetaminophen"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1495446610999646"
+            }, {
+                "timestamp_usec": "1495446613133004"
+            }],
+            "query_text": "difference between ssri snri"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1495155119773858"
+            }],
+            "query_text": "tail light bulb for 2010 chevy traverse"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1495046359332468"
+            }],
+            "query_text": "progress note end of entry red"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1495046323229158"
+            }],
+            "query_text": "progress note end of entry red line"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1495046108877381"
+            }],
+            "query_text": "progress note end of entry"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1495045637421450"
+            }],
+            "query_text": "nursing paper charting progress notes"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1495045393722515"
+            }, {
+                "timestamp_usec": "1495045540067574"
+            }],
+            "query_text": "nursing paper charting examples"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1495045058915540"
+            }],
+            "query_text": "paper charting nursing"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1495044863550781"
+            }],
+            "query_text": "the red line after nursing charting entries"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1495044803015062"
+            }],
+            "query_text": "the red line after charting entries"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1495044672524060"
+            }],
+            "query_text": "nursing charting for dummies"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1495044646812869"
+            }],
+            "query_text": "nursing charting"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1495043114411338"
+            }, {
+                "timestamp_usec": "1495043118480996"
+            }],
+            "query_text": "dollar general"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1495026638268162"
+            }],
+            "query_text": "symptom checker"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1495026630826633"
+            }],
+            "query_text": "nail shapes chart"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1494985396539351"
+            }, {
+                "timestamp_usec": "1494985400962061"
+            }],
+            "query_text": "dicks"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1494926746685240"
+            }],
+            "query_text": "best workout leggings"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1494926655335681"
+            }],
+            "query_text": "best workout leggings cheap"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1494926651909727"
+            }],
+            "query_text": "best workout leggings"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1494910295729534"
+            }],
+            "query_text": "aspergers"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1494893241911429"
+            }],
+            "query_text": "breastfeeding and cold medicine"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1494725175729283"
+            }, {
+                "timestamp_usec": "1494725179660558"
+            }],
+            "query_text": "95.7 grand rapids"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1494710386190703"
+            }, {
+                "timestamp_usec": "1494710390722185"
+            }],
+            "query_text": "alpine nails"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1494661988101445"
+            }],
+            "query_text": "dsm 5 f33.2"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1494661888611467"
+            }, {
+                "timestamp_usec": "1494661946623121"
+            }, {
+                "timestamp_usec": "1494661955801380"
+            }],
+            "query_text": "dsm 5 codes"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1494581151352537"
+            }],
+            "query_text": "lipitor"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1494349440707697"
+            }],
+            "query_text": "free apps friday"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1494349432709726"
+            }],
+            "query_text": "432 Newberg Ave NW -> 2500 Division Ave S, Grand Rapids, MI 49507"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1494179842628107"
+            }],
+            "query_text": "432 Newberg Ave NW -> 2500 Division Ave S, Grand Rapids, MI 49507"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1494179780164558"
+            }, {
+                "timestamp_usec": "1494179784523611"
+            }],
+            "query_text": "the kroc center"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1494084394492921"
+            }],
+            "query_text": "kroc center"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1494084216242130"
+            }, {
+                "timestamp_usec": "1494084219130901"
+            }],
+            "query_text": "ymca"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1494049730669817"
+            }],
+            "query_text": "glimepiride"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1494017073953054"
+            }, {
+                "timestamp_usec": "1494017077119759"
+            }],
+            "query_text": "muffler man standale"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1494014882659824"
+            }],
+            "query_text": "long hair bun donut"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1493986273797562"
+            }],
+            "query_text": "accident on 196 grand rapids mi"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1493986251714999"
+            }],
+            "query_text": "196 crash grand rapids"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1493985758762719"
+            }],
+            "query_text": "free apps friday"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1493958672077383"
+            }],
+            "query_text": "free apps friday"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1493898428366967"
+            }],
+            "query_text": "Sheldon Cleaners Grand Rapids, MI"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1493898397885665"
+            }, {
+                "timestamp_usec": "1493898401069090"
+            }],
+            "query_text": "laundromat"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1493897273358508"
+            }],
+            "query_text": "disney junior appisodes"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1493892649406564"
+            }],
+            "query_text": "free app friday"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1493892101204532"
+            }],
+            "query_text": "top apps for preschoolers free"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1493890406712156"
+            }],
+            "query_text": "top apps for preschoolers"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1493878052708919"
+            }],
+            "query_text": "www.hgtv.firetv"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1493878034642552"
+            }],
+            "query_text": "hgtv.firetv"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1493876626072506"
+            }],
+            "query_text": "mcdonalds standale"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1493869353461796"
+            }],
+            "query_text": "london has fallen"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1493869301051831"
+            }],
+            "query_text": "Aaron Eckhart"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1493869266015191"
+            }, {
+                "timestamp_usec": "1493869270364332"
+            }],
+            "query_text": "olympus has fallen"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1493784298287060"
+            }],
+            "query_text": "logans alley"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1493779844675460"
+            }],
+            "query_text": "jquery masked input"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1493776808077914"
+            }],
+            "query_text": "angular select dropdown"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1493686773548912"
+            }, {
+                "timestamp_usec": "1493686779857593"
+            }],
+            "query_text": "alpine gymnastics"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1493066548711822"
+            }],
+            "query_text": "topamax"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1492812586974962"
+            }],
+            "query_text": "pl"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1492790990295432"
+            }],
+            "query_text": "netflix ballet kids"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1492790966388335"
+            }, {
+                "timestamp_usec": "1492790972567468"
+            }],
+            "query_text": "netflix ballet"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1492618486062474"
+            }],
+            "query_text": "woodtv8 weather"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1492354433545679"
+            }, {
+                "timestamp_usec": "1492354437884568"
+            }],
+            "query_text": "new life baptist church grand rapids mi"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1492046202552387"
+            }],
+            "query_text": "meijer standale pharmacy hours"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1491506272407722"
+            }],
+            "query_text": "equestria girls dancing for ponies"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1491350561101335"
+            }, {
+                "timestamp_usec": "1491350564328200"
+            }],
+            "query_text": "comcast"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1490968563196456"
+            }, {
+                "timestamp_usec": "1490968565742113"
+            }],
+            "query_text": "conceivex"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1490755230288945"
+            }],
+            "query_text": "3rd shift fertility"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1490311787155242"
+            }],
+            "query_text": "9 week progesterone levels"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1490142002649125"
+            }],
+            "query_text": "oreilly auto parts"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1489613627160279"
+            }],
+            "query_text": "juxtaposition"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1489611923531718"
+            }],
+            "query_text": "hcg rising rates"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1489426396163080"
+            }],
+            "query_text": "42.971825,-85.722481"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1489253760845681"
+            }, {
+                "timestamp_usec": "1489253768956686"
+            }],
+            "query_text": "china chef"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1489170536411307"
+            }],
+            "query_text": "avoiding codependent parenting"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1489117982164380"
+            }],
+            "query_text": "avoiding codependent parenting"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488853312598095"
+            }, {
+                "timestamp_usec": "1488853316173652"
+            }],
+            "query_text": "family fare pharmacy hours"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488822357311809"
+            }, {
+                "timestamp_usec": "1488822518194233"
+            }, {
+                "timestamp_usec": "1488822526304441"
+            }, {
+                "timestamp_usec": "1488822632258742"
+            }, {
+                "timestamp_usec": "1488822634928677"
+            }],
+            "query_text": "harold kinney kincheloe, mi"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488822325506808"
+            }],
+            "query_text": "harold kinney"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488821818074412"
+            }],
+            "query_text": "dooder kinney"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488815382265103"
+            }],
+            "query_text": "mcdonalds in st ignace mi"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488758554612435"
+            }],
+            "query_text": "totem recipes mlp"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488753385816385"
+            }, {
+                "timestamp_usec": "1488753388018684"
+            }],
+            "query_text": "spectrum health suite 3300"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488667368994833"
+            }],
+            "query_text": "adderall sperm"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488667211788816"
+            }],
+            "query_text": "amphetamines sperm"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488666902285077"
+            }],
+            "query_text": "chewing tobacco sperm"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488656827235521"
+            }],
+            "query_text": "west michigan home and garden show"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488390511682801"
+            }],
+            "query_text": "pregnancy test checker online"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488390479521399"
+            }],
+            "query_text": "pregnancy test checker"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488390472792067"
+            }],
+            "query_text": "bunk beds out of shelves"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488390470513172"
+            }],
+            "query_text": "bunk beds for four"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488382652520859"
+            }],
+            "query_text": "bunk beds out of shelves"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488382631011486"
+            }],
+            "query_text": "bunk beds shelves"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488382585779308"
+            }, {
+                "timestamp_usec": "1488382596506198"
+            }],
+            "query_text": "bunk beds for four"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488309027824700"
+            }],
+            "query_text": "i tdeidx stop. text me im closing this"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488309001764810"
+            }],
+            "query_text": "did you send that to me or does it connect on its own like that?"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488139927103464"
+            }, {
+                "timestamp_usec": "1488139929817566"
+            }],
+            "query_text": "scrubs for success"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488139218079091"
+            }],
+            "query_text": "is for getting input from the user javascript"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1488034518053225"
+            }],
+            "query_text": "fertility rollerball"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1487975883590695"
+            }],
+            "query_text": "intermittent catheterization of suprapubic"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1487975657972646"
+            }],
+            "query_text": "suprapubic catheter"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1487965135741406"
+            }],
+            "query_text": "day 21 progesterone level"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1487807095119567"
+            }],
+            "query_text": "2010 chevy traverse 2lt"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1487807064766797"
+            }],
+            "query_text": "2lt trim traverse"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1487800297066493"
+            }],
+            "query_text": "how to keep roses from getting leggy"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1487798390629101"
+            }],
+            "query_text": "stink bug"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1487798372505603"
+            }],
+            "query_text": "stink bug life cycle"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1487716011363539"
+            }, {
+                "timestamp_usec": "1487716023640902"
+            }],
+            "query_text": "stink bug life cycle"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1487715945546623"
+            }, {
+                "timestamp_usec": "1487715949263839"
+            }],
+            "query_text": "stink bug eggs"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1487385639074414"
+            }],
+            "query_text": "best days to take clomid for success"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1487385259776736"
+            }],
+            "query_text": "best days to take clomid for twins"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1487384955195923"
+            }],
+            "query_text": "chance of multiples from clomid"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1487275564197517"
+            }],
+            "query_text": "thieves roller recipe"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1487274699942118"
+            }],
+            "query_text": "how to make a rollerball"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1487273276790952"
+            }, {
+                "timestamp_usec": "1487273381442669"
+            }],
+            "query_text": "fertility rollerball"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1487272975367667"
+            }],
+            "query_text": "fertility essential oils"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1487269038416301"
+            }, {
+                "timestamp_usec": "1487269066104020"
+            }],
+            "query_text": "home depot locations grand rapids"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1487268594991019"
+            }],
+            "query_text": "pine rest freedom house"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1487175790179806"
+            }, {
+                "timestamp_usec": "1487175793317724"
+            }, {
+                "timestamp_usec": "1487175821481537"
+            }, {
+                "timestamp_usec": "1487175823193835"
+            }],
+            "query_text": "walgreens near me"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1487000622143398"
+            }],
+            "query_text": "pregnancy rates after hsg"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486942680492553"
+            }],
+            "query_text": "synonym for rough draft"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486844927390646"
+            }],
+            "query_text": "Americas Best Value Inn & Suites - Walker/Grand Rapids North"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486844683923958"
+            }],
+            "query_text": "motels on remembrance"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486840721798734"
+            }, {
+                "timestamp_usec": "1486840724601917"
+            }],
+            "query_text": "appletree estates"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486839177024848"
+            }],
+            "query_text": "knollwood estates allendale"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486839132568923"
+            }, {
+                "timestamp_usec": "1486839136027007"
+            }],
+            "query_text": "meadowbrook"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486766015909704"
+            }],
+            "query_text": "how to jump a car"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486728611023218"
+            }],
+            "query_text": "nick vujicic"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486189738436995"
+            }],
+            "query_text": "big boobs and ballet"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486185551999951"
+            }],
+            "query_text": "adult ballet with large breasts"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486172074623364"
+            }],
+            "query_text": "nick vujicic"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486154797752031"
+            }],
+            "query_text": "childrens ballet performance dresses"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486151459718519"
+            }, {
+                "timestamp_usec": "1486151471635584"
+            }],
+            "query_text": "432 Newberg Ave NW -> 6561 Lake Michigan Dr, Allendale, MI 49401"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486151447595176"
+            }, {
+                "timestamp_usec": "1486151450652868"
+            }],
+            "query_text": "lake michigan dance academy"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486151432773433"
+            }],
+            "query_text": "pete the cat rocking in my school shoes"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486139862246917"
+            }],
+            "query_text": "pete the cat rocking in my school shoes"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486099324318159"
+            }],
+            "query_text": "forest view hospital"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486092246205079"
+            }],
+            "query_text": "pure romance"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486091122444909"
+            }],
+            "query_text": "myo-inositol fertility"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486091104028024"
+            }],
+            "query_text": "myo inositol"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486086972369299"
+            }],
+            "query_text": "metformin for pregnancy"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486068846149293"
+            }],
+            "query_text": "42.971523,-85.723129"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486010635924192"
+            }],
+            "query_text": "good morning exercises for kids"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1486003016022704"
+            }],
+            "query_text": "good morning exercises for kids"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485998134744711"
+            }, {
+                "timestamp_usec": "1485998138721666"
+            }],
+            "query_text": "lake michigan dance academy"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485915323243030"
+            }],
+            "query_text": "west michigan elite pom and dance"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485915126655920"
+            }],
+            "query_text": "art and passion dance academy"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485915027744463"
+            }],
+            "query_text": "social dance studio"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485913514007201"
+            }, {
+                "timestamp_usec": "1485913519735849"
+            }, {
+                "timestamp_usec": "1485913573302068"
+            }, {
+                "timestamp_usec": "1485913604250582"
+            }, {
+                "timestamp_usec": "1485913614603860"
+            }, {
+                "timestamp_usec": "1485913621211142"
+            }, {
+                "timestamp_usec": "1485913635976599"
+            }, {
+                "timestamp_usec": "1485913646662378"
+            }, {
+                "timestamp_usec": "1485913647999882"
+            }, {
+                "timestamp_usec": "1485913650038415"
+            }, {
+                "timestamp_usec": "1485913654017115"
+            }, {
+                "timestamp_usec": "1485913655178218"
+            }, {
+                "timestamp_usec": "1485913726812502"
+            }, {
+                "timestamp_usec": "1485913730710579"
+            }, {
+                "timestamp_usec": "1485913733069479"
+            }, {
+                "timestamp_usec": "1485913738826464"
+            }, {
+                "timestamp_usec": "1485913740153178"
+            }, {
+                "timestamp_usec": "1485913746796743"
+            }, {
+                "timestamp_usec": "1485913751981780"
+            }, {
+                "timestamp_usec": "1485913759571720"
+            }, {
+                "timestamp_usec": "1485913762732935"
+            }, {
+                "timestamp_usec": "1485913764592778"
+            }, {
+                "timestamp_usec": "1485913766019989"
+            }, {
+                "timestamp_usec": "1485913917246645"
+            }],
+            "query_text": "dance classes"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485913406752081"
+            }, {
+                "timestamp_usec": "1485913411523388"
+            }, {
+                "timestamp_usec": "1485913412864025"
+            }, {
+                "timestamp_usec": "1485913416789534"
+            }],
+            "query_text": "ballet classes"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485913205307556"
+            }, {
+                "timestamp_usec": "1485913299956739"
+            }, {
+                "timestamp_usec": "1485913308654871"
+            }, {
+                "timestamp_usec": "1485913310753489"
+            }, {
+                "timestamp_usec": "1485913325288369"
+            }, {
+                "timestamp_usec": "1485913326730425"
+            }, {
+                "timestamp_usec": "1485913327956062"
+            }, {
+                "timestamp_usec": "1485913373511821"
+            }, {
+                "timestamp_usec": "1485913386090719"
+            }, {
+                "timestamp_usec": "1485913387730195"
+            }, {
+                "timestamp_usec": "1485913389294913"
+            }, {
+                "timestamp_usec": "1485913391419122"
+            }, {
+                "timestamp_usec": "1485913392463221"
+            }],
+            "query_text": "ballet grand rapids, mi"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485912632585702"
+            }],
+            "query_text": "we are gr"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485912333500234"
+            }],
+            "query_text": "gr parks and recreation"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485860410898345"
+            }],
+            "query_text": "ip lookup"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485810567295858"
+            }],
+            "query_text": "target free shipping"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485804442661237"
+            }],
+            "query_text": "kohl's"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485717922851046"
+            }],
+            "query_text": "impetigo"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485717746834860"
+            }, {
+                "timestamp_usec": "1485717749757696"
+            }],
+            "query_text": "young child rashes"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485717458425181"
+            }, {
+                "timestamp_usec": "1485717681963282"
+            }],
+            "query_text": "hand foot and mouth"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485668257625772"
+            }, {
+                "timestamp_usec": "1485668323701770"
+            }],
+            "query_text": "nick vujicic"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485561398630958"
+            }],
+            "query_text": "pine rest"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485561269025519"
+            }],
+            "query_text": "freedom house grand rapids mi"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485559252003199"
+            }],
+            "query_text": "forest view hospital"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485559178378882"
+            }],
+            "query_text": "linkedin"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485556367756422"
+            }],
+            "query_text": "what can i make with hamburger"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485555593354393"
+            }],
+            "query_text": "rock plaster walls"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485555583054602"
+            }],
+            "query_text": "rock plaster vs plaster"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485551814708498"
+            }],
+            "query_text": "chalkboard mounting height"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485551347407550"
+            }, {
+                "timestamp_usec": "1485551355429085"
+            }],
+            "query_text": "how high to hang a chalkboard"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485545351228060"
+            }],
+            "query_text": "hanging heavy objects on plaster walls"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485544196600373"
+            }],
+            "query_text": "lowes"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485543979418661"
+            }],
+            "query_text": "mounting a chalkboard"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1485543810726854"
+            }],
+            "query_text": "mounting reclaimed chalkboard"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1484689925294767"
+            }],
+            "query_text": "spectrum health sleep center grand rapids mi"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1484604266624531"
+            }],
+            "query_text": "menards"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1484604177219633"
+            }],
+            "query_text": "home depot"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1484601611866687"
+            }],
+            "query_text": "ebates"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1484466977031595"
+            }],
+            "query_text": "neonatal nurse cover letter"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1484464997033600"
+            }],
+            "query_text": "bronson jobs"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1484333230843474"
+            }],
+            "query_text": "ebates"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1483989765506135"
+            }],
+            "query_text": "roomsandrestportal.montagefs.com"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1483656109908379"
+            }],
+            "query_text": "metro health lab locations"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1483654818459015"
+            }],
+            "query_text": "fafsa"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1483654695061662"
+            }],
+            "query_text": "ohio university"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1483653636260703"
+            }],
+            "query_text": "rnc-nic"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1483652174514385"
+            }],
+            "query_text": "nann"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1483482447716575"
+            }],
+            "query_text": "growingupwithus"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1483482372090681"
+            }],
+            "query_text": "wine funny"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1483462138833415"
+            }, {
+                "timestamp_usec": "1483462142641228"
+            }],
+            "query_text": "wine funny"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1483462108549981"
+            }, {
+                "timestamp_usec": "1483462112172143"
+            }, {
+                "timestamp_usec": "1483462113272172"
+            }, {
+                "timestamp_usec": "1483462117045148"
+            }],
+            "query_text": "wine"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1483390829014819"
+            }, {
+                "timestamp_usec": "1483390832187457"
+            }],
+            "query_text": "attention md"
+        }
+    }, {
+        "query": {
+            "id": [{
+                "timestamp_usec": "1483234201819645"
+            }],
+            "query_text": "how to do an instagram best nine"
+        }
+    }]
+}
